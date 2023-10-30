@@ -64,7 +64,7 @@ Nigeria’s profitability is equal to -23285.19
 Sum of shipping cost is 6183.11, Average discount is 0.7
 
 ### The least product subcategory in South Asia:
-
+![IMG-5392](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/2f5832f1-1870-4c6f-834e-842cb3020892)
 South Asia is assumed to comprise the following:
 - Cambodia
 - Indonesia
