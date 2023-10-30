@@ -81,6 +81,7 @@ South Asia is assumed to comprise the following:
 The least profitable cities are Burlington (144.915088), Lancaster (157.371052), San Antonio (123.712715).
 
 ### Highest product Subcategory in Australia:
+![IMG-5394](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/e41d6d80-cc82-4f13-a7e0-f60823fae708)
 
 The highest product subcategory is copiers (18805.137)
 
