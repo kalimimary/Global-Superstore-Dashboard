@@ -86,6 +86,7 @@ The least profitable cities are Burlington (144.915088), Lancaster (157.371052),
 The highest product subcategory is copiers (18805.137)
 
 ### Product purchased by the most valuable customers:
+![IMG-5395](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/1a51ff7a-9dc0-4ab0-8687-dc1b9015f823)
 
 The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
 
