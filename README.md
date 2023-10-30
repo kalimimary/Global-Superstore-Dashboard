@@ -49,6 +49,7 @@ China (Bush classic, HP classic, Sauder classic), India (Cisco smart, Hamilton b
 United State (Canon, GBC Docubind, Hawlett packard).
 
 ### Subcategories with the highest shipping cost in United state:  
+![IMG-5389](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/2d1fa377-059c-477b-9fec-d38b1a6d1a1c)
 
 The highest 3 subcategories with the highest shipping cost in the United State are Copier (165.288733), Machines (132.245360), Tables (69.95).
 
