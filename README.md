@@ -43,6 +43,7 @@ You can interact with the report [here](https://app.powerbi.com/reportEmbed?repo
 Countries with the highest profit in 2014 are China (46793.994), Indian(48807.675), United States ( 93507.5131).
 
 ### Products with the highest total profit in each countries with the highest profit:
+![IMG-5388](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/4c3e94e7-95e2-41da-8678-a6d66d1ad0b8)
 
 China (Bush classic, HP classic, Sauder classic), India (Cisco smart, Hamilton beach, Sauder classic),
 United State (Canon, GBC Docubind, Hawlett packard).
