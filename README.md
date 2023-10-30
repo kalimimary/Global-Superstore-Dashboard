@@ -76,6 +76,7 @@ South Asia is assumed to comprise the following:
 - Vietnam
 
 ### The least profitable cities in terms of average profit in the United State:
+![IMG-5393](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/c8d4a947-a439-4717-8caf-2fc8e938ac59)
 
 The least profitable cities are Burlington (144.915088), Lancaster (157.371052), San Antonio (123.712715).
 
