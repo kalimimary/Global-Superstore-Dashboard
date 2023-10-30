@@ -18,12 +18,12 @@ All datasets and reports do not represent any company, institution or country, b
   Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
 - Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
 
-5) Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average 
-   profit so low?
+  Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average 
+  profit so low?
 
-6) Which product subcategory has the highest average profit in Australia?
+- Which product subcategory has the highest average profit in Australia?
 
-7) Who are the most valuable customers and what do they purchase?
+- Who are the most valuable customers and what do they purchase?
 
 ## Skills/Concepts Demonstrated:
 The following Excel features were incorporated:
@@ -74,6 +74,8 @@ South Asia is assumed to comprise the following:
 - Singapore
 - Thailand
 - Vietnam
+Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
+ans: Yes, The name of the country is vietnam because the country has the least profit.
 
 ### The least profitable cities in terms of average profit in the United State:
 ![IMG-5393](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/c8d4a947-a439-4717-8caf-2fc8e938ac59)
@@ -89,6 +91,13 @@ The highest product subcategory is copiers (18805.137)
 ![IMG-5395](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/1a51ff7a-9dc0-4ab0-8687-dc1b9015f823)
 
 The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
+
+## Conclusion: 
+- Shipping cost and average discount has the highest impact on Nigeria's profitablity. The shipping cost (6183.11) is high and average discount(0.7) is very low.
+
+## Recommendation:
+- For a deep dive into the analytics, The datasets of the previous years will be required for comparison and data driven decision making.
+
 
 
 
