@@ -38,6 +38,7 @@ You can interact with the report [here](https://app.powerbi.com/reportEmbed?repo
 
 ## Analysis: 
 ### Countries with the highest total profit:
+![IMG-5386](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/0e26a183-5201-4d84-81ae-cc79cc5ab2c1)
 
 Countries with the highest profit in 2014 are China (46793.994), Indian(48807.675), United States ( 93507.5131).
 
