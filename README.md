@@ -59,6 +59,7 @@ The highest 3 subcategories with the highest shipping cost in the United State a
 Nigeria’s profitability is equal to -23285.19
 
 ### Nigeria’s sum of shipping cost and average discount:
+![IMG-5391](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/70575403-5492-4b35-b937-f65fde969789)
 
 Sum of shipping cost is 6183.11, Average discount is 0.7
 
