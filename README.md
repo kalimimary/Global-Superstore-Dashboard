@@ -54,6 +54,7 @@ United State (Canon, GBC Docubind, Hawlett packard).
 The highest 3 subcategories with the highest shipping cost in the United State are Copier (165.288733), Machines (132.245360), Tables (69.95).
 
 ### Nigeria’s Profitability:
+![IMG-5390](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/5930c669-6b0e-45ce-805a-16b32ff59ad3)
 
 Nigeria’s profitability is equal to -23285.19
 
