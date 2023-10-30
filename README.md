@@ -93,7 +93,7 @@ The highest product subcategory is copiers (18805.137)
 The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
 
 ## Conclusion: 
-- Shipping cost and average discount has the highest impact on Nigeria's profitablity. The shipping cost (6183.11) is high and average discount(0.7) is very low.
+- Shipping cost and average discount has the highest impact on Nigeria's profitablity(-23285.19). The shipping cost (6183.11) is high and average discount(0.7) is very low.
 
 ## Recommendation:
 - For a deep dive into the analytics, The datasets of the previous years will be required for comparison and data driven decision making.
