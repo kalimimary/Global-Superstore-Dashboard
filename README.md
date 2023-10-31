@@ -1,4 +1,4 @@
-# Global-Superstore-Dashboard
+# Global-Superstore-Analysis
 
 ## Introduction:
 This is an excel project on an online store called Global superstore based in New York. The project is to analyse and derive insights to answer crucial questions and also help them make decisions.
@@ -18,8 +18,7 @@ All datasets and reports do not represent any company, institution or country, b
   Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam.
 - Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
 
-  Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average 
-  profit so low?
+- Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders.
 
 - Which product subcategory has the highest average profit in Australia?
 
@@ -93,7 +92,7 @@ The highest product subcategory is copiers (18805.137)
 The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
 
 ## Conclusion: 
-- Shipping cost and average discount has the highest impact on Nigeria's profitablity(-23285.19). The shipping cost (6183.11) is high and average discount(0.7) is very low.
+- Shipping cost and average discount has the highest impact on Nigeria's profitablity.
 
 ## Recommendation:
 - For a deep dive into the analytics, The datasets of the previous years will be required for comparison and data driven decision making.
