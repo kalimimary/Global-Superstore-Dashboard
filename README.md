@@ -73,8 +73,11 @@ South Asia is assumed to comprise the following:
 - Singapore
 - Thailand
 - Vietnam
-Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
+  
+### Is there a specific country in Southeast Asia where Global Superstore should stop offering the subcategory identified in 4a?
 ans: Yes, The name of the country is vietnam because the country has the least profit.
+
+![IMG-5402](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/ced56eb1-da97-4ed5-99bb-663860756163)
 
 ### The least profitable cities in terms of average profit in the United State:
 ![IMG-5393](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/c8d4a947-a439-4717-8caf-2fc8e938ac59)
@@ -86,8 +89,9 @@ The least profitable cities are Burlington (144.915088), Lancaster (157.371052),
 
 The highest product subcategory is copiers (18805.137)
 
-### Product purchased by the most valuable customers:
-![IMG-5395](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/1a51ff7a-9dc0-4ab0-8687-dc1b9015f823)
+### Produc purchased by the most valuable customers:
+![IMG-5401](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/40fc48d8-9b29-41f3-a4fa-eceef63247ca)
+
 
 The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
 
