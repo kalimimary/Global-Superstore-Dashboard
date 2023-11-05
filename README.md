@@ -89,11 +89,12 @@ The least profitable cities are Burlington (144.915088), Lancaster (157.371052),
 
 The highest product subcategory is copiers (18805.137)
 
-### Produc purchased by the most valuable customers:
+### Product purchased by the most valuable customers:
 ![IMG-5401](https://github.com/kalimimary/Global-Superstore-Dashboard/assets/148924660/40fc48d8-9b29-41f3-a4fa-eceef63247ca)
 
 
-The most most valuable customers are Bill Eplett, Eric Murdock, Gary Hwang, John Grady, Patrick O’Brill, Steven Ward.
+The most most valuable customers are:
+Tamara Chand and Raymond Buch.
 
 ## Conclusion: 
 - Shipping cost and average discount has the highest impact on Nigeria's profitablity.
